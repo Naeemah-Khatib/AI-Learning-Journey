@@ -7,7 +7,10 @@ Transitioning from Power BI Developer to AI Solutions Engineer.
 - Day 1 - Pandas Basics ✅
 - Day 2 - GroupBy ✅
 - Day 3 - Excel Analysis ✅
-- Day 4 - Functions ⏳
+- Day 4 - Functions ✅
+- Day 5 - APIs ✅
+- Day 6 - Loops  Automation ⏳
+
 
 ## Goals
 
